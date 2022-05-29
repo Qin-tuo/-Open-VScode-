@@ -12,7 +12,7 @@ VScode是我日常中常用的IDE软件，但是每当我要将某些文件添�
 
 1.下载我仓库中的.txt文件
 2.更改文件中关于VScode位置的部分
-![如下图红框所示](img/@YXHM6G80GMNIJ@@KEN4`%7.png)
+![如下图红框所示](img/1.png)
 
 > 注意
 >
@@ -28,8 +28,5 @@ VScode是我日常中常用的IDE软件，但是每当我要将某些文件添�
 ![另存为](img/E95[}]R8UOJ$VVO0}04P29O.png)
 
 然后运行就OK啦
-
-
-
-![效果](img/1F4TXWH3E%MT[PG8{JP@3.png)
+![效果](img/2.png)  
 
